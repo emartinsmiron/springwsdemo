@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springwsdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: emiron
+Implementation-Vendor-Id: br.com.emiron
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/springwsdemo/
+Created-By: Maven Integration for Eclipse
+
